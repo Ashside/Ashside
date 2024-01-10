@@ -6,8 +6,6 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashside)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Ashside's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashside&layout=compact&hide_border=true&langs_count=10)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
