@@ -5,6 +5,15 @@
 - Ask me about anything!
 
 <!--START_SECTION:waka-->
+
+```txt
+Jupyter           4 hrs 18 mins   ██████████████▓░░░░░░░░░░   58.60 %
+Text              1 hr 56 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+Python            35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+CSV               23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Markdown          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+```
+
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashside)
