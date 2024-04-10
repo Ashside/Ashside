@@ -1,7 +1,7 @@
 ### Welcome to Ashside's profile
 
 - I’m currently working on `Compilers`
-- How to reach me `maybeyushu@outlook.com`
+- Contact me with email `maybeyushu@outlook.com`
 - Ask me about anything!
 
 <!--START_SECTION:waka-->
