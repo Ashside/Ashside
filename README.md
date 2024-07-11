@@ -7,7 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go   0 secs          █████████████████████████   100.00 %
+Go               33 mins         ██████████████████▓░░░░░░   75.19 %
+GitIgnore file   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
 ```
 
 <!--END_SECTION:waka-->
