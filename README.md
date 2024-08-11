@@ -7,7 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go   0 secs          █████████████████████████   100.00 %
+Go             0 secs          █████████████████████████   99.41 %
+HTTP Request   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
