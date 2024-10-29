@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-go.mod     0 secs          ██████████████████████▒░░   89.57 %
-Go         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
