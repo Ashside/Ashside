@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown         20 mins         ███████████▒░░░░░░░░░░░░░   45.46 %
+textmate         9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
+Go               6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+Makefile         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
