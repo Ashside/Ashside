@@ -1,6 +1,6 @@
 ### Welcome to Ashside's profile
 
-- I’m currently working on `Gin Framework`
+- I’m currently working on `Gin Framework` | `Distributed Systems` | `Deep Learning`
 - Email `maybeyushu@outlook.com`
 - Ask me about anything!
 
