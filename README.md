@@ -11,7 +11,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashside)
 ![Ashside's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ashside&theme=onedark)
 
-[![My Skills](https://skillicons.dev/icons?i=go,vue,python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,cpp,vue)](https://skillicons.dev)
 
 
 <!--START_SECTION:waka-->
