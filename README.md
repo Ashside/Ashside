@@ -1,8 +1,18 @@
 ### Welcome to Ashside's profile
 
-- I’m currently working on `Gin Framework` | `Distributed Systems` | `Deep Learning`
-- Email `maybeyushu@outlook.com`
-- Ask me about anything!
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ashside)](https://github.com/Ashside)
+[![Email](https://img.shields.io/badge/Email-maybeyushu@outlook.com-blue)](mailto:maybeyushu@outlook.com)
+
+- 🔭 I’m currently working on `Gin Framework` | `Distributed Systems` | `Deep Learning`
+- 📫 How to reach me: `maybeyushu@outlook.com`
+- 👨‍💻 Ask me about anything!
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashside&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashside)
+![Ashside's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ashside&theme=onedark)
+
+[![My Skills](https://skillicons.dev/icons?i=go,vue,python,js,html,css)](https://skillicons.dev)
+
 
 <!--START_SECTION:waka-->
 
