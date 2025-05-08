@@ -7,12 +7,15 @@
 - 📫 How to reach me: `maybeyushu@outlook.com`
 - 👨‍💻 Ask me about anything!
 
+### My stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashside&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashside)
 ![Ashside's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ashside&theme=onedark)
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,cpp,vue)](https://skillicons.dev)
 
+
+### Recent work
 
 <!--START_SECTION:waka-->
 
@@ -26,7 +29,9 @@ Text             22 mins         █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashside)
+### My skills
+
+[![My Skills](https://skillicons.dev/icons?i=go,python,cpp,vue)](https://skillicons.dev)
 
 ![Ashside's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashside&layout=compact&hide_border=true&langs_count=10)
 
