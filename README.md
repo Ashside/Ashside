@@ -20,10 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter   32 mins         ████████████████████████▒   96.76 %
-Text      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-JSON      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Python    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
