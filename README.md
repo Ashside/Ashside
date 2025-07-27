@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-maybeyushu@outlook.com-blue)](mailto:maybeyushu@outlook.com)
 
 
-~~Master’s student in Artificial Intelligence at Peking University~~
+Master’s student in Artificial Intelligence at Peking University
 
 - 🔭 I’m currently working on `Gin Framework` | `Distributed Systems` | `Deep Learning`
 - 📫 How to reach me: `maybeyushu@outlook.com`
