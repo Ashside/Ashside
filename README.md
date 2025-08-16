@@ -23,9 +23,9 @@ Master’s student in Artificial Intelligence at Peking University
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter          8 hrs 39 mins   █████████████████████▒░░░   85.70 %
-Python           1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-GitIgnore file   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Jupyter          8 hrs 12 mins   ██████████████████████▓░░   90.14 %
+Python           36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+GitIgnore file   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
