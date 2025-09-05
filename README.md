@@ -36,6 +36,6 @@ Vue.js         4 mins          █▒░░░░░░░░░░░░░░�
 
 [![My Skills](https://skillicons.dev/icons?i=go,python,cpp,vue)](https://skillicons.dev)
 
-![Ashside's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashside&layout=compact&hide_border=true&langs_count=10)
+![Ashside's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashside&layout=compact&hide_border=true&langs_count=5)
 
 
