@@ -6,7 +6,7 @@
 
 Master’s student in Artificial Intelligence at Peking University
 
-- 🔭 I’m currently working on `Gin Framework` | `Distributed Systems` | `Deep Learning`
+- 🔭 I’m currently working on `CS336`
 - 📫 How to reach me: `maybeyushu@outlook.com`
 - 👨‍💻 Ask me about anything!
 
