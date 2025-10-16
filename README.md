@@ -23,11 +23,11 @@ Master’s student in Artificial Intelligence at Peking University
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 44 mins   ███████████████▓░░░░░░░░░   63.19 %
-TeX          1 hr 40 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
-C++          49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-CSV          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Python       4 hrs 54 mins   ███████████████▓░░░░░░░░░   63.01 %
+TeX          1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
+C++          49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
